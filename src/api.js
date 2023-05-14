@@ -3,7 +3,7 @@ export const fetchResponse =  async(chat) => {
     // console.log(chat)
     try {
         // after depoloyment you should change the fetch URL below
-        const response = await fetch('http://localhost:3080', { 
+        const response = await fetch('https://hpigpt-back.vercel.app', { 
             method: 'POST',
             headers: {
                 "Content-Type": "application/json"
