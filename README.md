@@ -6,7 +6,6 @@ A modern, therapeutic AI chat interface built with React and TailwindCSS. HapiGP
 - Official Website: [hapigpt.com](https://www.hapigpt.com)
 - Development Preview: [hapi-gpt-front-vercel.vercel.app](https://hapi-gpt-front-vercel.vercel.app)
 
-![HapiGPT Interface](./img/landing.png)
 
 ## 💡 About
 
